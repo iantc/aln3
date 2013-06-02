@@ -1,0 +1,15 @@
+/**
+ * Theme Name: ALN 3.0
+ * Theme URI: http://devpress.com/themes/oxygen/
+ * Description: A child theme of Oxygen (developed by DevPress).
+ * Version: 0.1
+ * Author: Rachel Lux, Jennie Archer, & Roxanne Dunn
+ * Author URI: http://courseweb.lis.illinois.edu/~rlux2/aln/aln_report/aln_reportdesignplan
+ * Template: oxygen
+ * Tags: flexible-width, theme-options, threaded-comments, microformats, translation-ready, rtl-language-support, three-columns, right-sidebar, left-sidebar, custom-background, featured-images
+ * License: GNU General Public License v2.0
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ */
+
+@import url("../oxygen/style.css");
